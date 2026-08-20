@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.funcionalidades{
+    padding: 20px;
+    background-color: #fd9ddd5f;
+}
+.funcionalidades h2 {
+    color: rgb(247, 54, 169);
+
+.secao-principal h1 {
+        color: rgb(220, 76, 124);
+    }
+}
+
+.funcionalidades li {
+    background-color: #fd9ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+}
